@@ -7,7 +7,7 @@ My name is Joshua Robles and software engineering is my **passion** but not real
 
 >Something I said the other day funny greentext
 
-Here is a program I wrote the other day:
+Here's a program I wrote the other day:
 
 'std::cout << "Hello world!";'
 
