@@ -49,4 +49,4 @@ My top programming languages:
 
 To-do for this page:
 - [x] Fulfill all the assignment requirements
-- [] Make it not garbage
+- [ ] Make it not garbage
