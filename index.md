@@ -25,7 +25,7 @@ Check out this cool [readme file](README.md).
 
 Here's a link to that [sick Huffman tree you saw](assets/images/tree.jpg).
 
-For the second picture, here's some graphs I recorded for something in physics a while ago. [graphs](assets/images/Screenshot%202024-03-12%20140522.png)
+For the second picture, here's some graphs I recorded for something in physics a while ago. [![graphs](assets/images/Screenshot%202024-03-12%20140522.png)]
 
 Programming languages I love:
 -C++
