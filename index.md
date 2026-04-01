@@ -9,7 +9,7 @@ My name is Joshua Robles and software engineering is my **passion** but not real
 
 Here's a program I wrote the other day:
 
-'Hello world'
+`std::cout << "Hello, world!";`
 
 ~~It did not compile~~ and some more <sub>style</sub> text for you
 
