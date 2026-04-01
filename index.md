@@ -28,16 +28,15 @@ Here's a link to that [sick Huffman tree you saw](assets/images/tree.jpg).
 For the second picture, here's some graphs I recorded for something in physics a while ago. [![graphs](assets/images/Screenshot%202024-03-12%20140522.png)]
 
 Programming languages I love:
--C++
--C#
--Python
--HTML
+- C++
+- C#
+- Python
 
 Programming languages I hate:
--C++
--C#
--Python
--HTML
+- C++
+- C#
+- Python
+- HTML
 
 My top programming languages:
 1. C++
@@ -49,5 +48,5 @@ My top programming languages:
 7. HTML
 
 To-do for this page:
--[x] Fulfill all the assignment requirements
--[] Make it not garbage
+- [x] Fulfill all the assignment requirements
+- [] Make it not garbage
