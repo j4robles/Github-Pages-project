@@ -9,9 +9,9 @@ My name is Joshua Robles and software engineering is my **passion** but not real
 
 Here's a program I wrote the other day:
 
-'std::cout << "Hello world!";'
+'Hello world'
 
-~~It did not compile because I forgot to include it in main()~~ and some more <sub>style</sub> text for you
+~~It did not compile~~ and some more <sub>style</sub> text for you
 
 Here's a link to my [pages repository (SECA)](https://github.com/j4robles/Github-Pages-project/tree/add-read-me).
 
